@@ -11,6 +11,6 @@ public class SayHello {
 
     @RequestMapping(path="/hello", method= RequestMethod.GET)
     public String hello() {
-        return "Hello World ! - BK";
+        return "Hello World (changed) ! - BK";
     }
 }
