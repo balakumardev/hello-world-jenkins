@@ -1,6 +1,6 @@
 ---
 applications:
 - name: dell-emc-balak-hello
-  memory: 512M
+  memory: 2G
   instances: 1
   path: target/HelloWorld-0.0.1-SNAPSHOT.jar
